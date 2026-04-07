@@ -222,7 +222,7 @@ Join Discord
 
 <div class="glass p-6 rounded-2xl card">
 
-<h4 class="font-bold text-lg">Patricq Whistler</h4>
+<h4 class="font-bold text-lg">Patricq Freeze</h4>
 
 <p class="text-sm text-gray-500 mb-4">
 Gang Leader / Member Relations and Strategy Director
@@ -241,7 +241,7 @@ Gang Leader / Member Relations and Strategy Director
 
 <div class="glass p-6 rounded-2xl card">
 
-<h4 class="font-bold text-lg">Carleen Whistler</h4>
+<h4 class="font-bold text-lg">Carleen Freeze</h4>
 
 <p class="text-sm text-gray-500 mb-4">
 Deputy Leader / Inventory and Finance Manager / Discord Developer
